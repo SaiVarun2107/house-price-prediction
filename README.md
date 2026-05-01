@@ -150,6 +150,11 @@ The machine learning models successfully predicted house prices based on the pro
 
 ---
 
+## Note
+
+The dataset used is synthetic, which results in lower model performance (negative R² score).  
+However, the project demonstrates the complete machine learning workflow.
+
 # Future Improvements
 
 Possible future improvements:
