@@ -117,13 +117,13 @@ The trained model was saved using Pickle.
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/SaiVarun2107/house-price-prediction.git
 ```
 
 ## 2. Navigate to Project Folder
 
 ```bash
-cd House-Price-Prediction
+cd house-price-prediction
 ```
 
 ## 3. Install Required Libraries
