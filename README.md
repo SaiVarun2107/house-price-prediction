@@ -150,10 +150,19 @@ The machine learning models successfully predicted house prices based on the pro
 
 ---
 
+<<<<<<< HEAD
 ## Note
 
 The dataset used is synthetic, which results in lower model performance (negative R² score).  
 However, the project demonstrates the complete machine learning workflow.
+=======
+## Sample Prediction
+
+The model can predict house prices based on input features such as area, number of bedrooms, location, and condition.
+
+Example output:
+Predicted House Price: ~550000
+>>>>>>> 9fbd1f8 (Final update before sync)
 
 # Future Improvements
 
