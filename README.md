@@ -173,3 +173,9 @@ Possible future improvements:
 * Improve model accuracy
 * Add more visualizations
 * Use advanced machine learning algorithms
+
+# Application Screenshots
+
+## Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
